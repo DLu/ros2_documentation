@@ -170,7 +170,7 @@ Apply the following changes to use ``ament_cmake`` instead of ``catkin``:
     * If you will be using the list of filenames multiple times, it is recommended to compose a list of message files and pass the list to the function for clarity.
 
   *
-    The final multi-value-keyword argument fpr ``generate_messages`` is ``DEPENDENCIES`` which requires the list of dependent message packages.
+    The final multi-value-keyword argument for ``generate_messages`` is ``DEPENDENCIES`` which requires the list of dependent message packages.
 
     .. code-block:: cmake
 
