@@ -14,6 +14,8 @@ Background
 
 See the `conceptual article <../Concepts/About-Composition>`.
 
+For information on how to write a composable node, `check out this tutorial <Writing-a-Composable-Node>`
+
 Run the demos
 -------------
 
